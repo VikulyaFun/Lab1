@@ -13,3 +13,4 @@ if a + b > c and a + c > b and b + c > a:
 if s > smax:
     smax = s
 print("Максимальная площадь треугольника", smax)
+print('meow')
